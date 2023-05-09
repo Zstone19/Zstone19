@@ -4,6 +4,7 @@ Most of the work I'm doing currently involves time-series and spectral analysis 
 * AGN time-series analysis
 * spectral analysis
 * reverberation mapping
+* dynamical modeling
 * image decomposition
 * AGN sample studies
 
